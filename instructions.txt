@@ -1,0 +1,13 @@
+Libraries used:
+
+Python
+Tkinter: GUI
+Openpyxl: reading .xlsx and extracting data
+ReportLab: pdf generation
+Pyperclip: copying data to the clipboard
+
+Installed modules:
+
+pip install openpyxl
+pip install reportlab
+pip install pyperclip
